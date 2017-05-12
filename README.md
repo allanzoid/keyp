@@ -23,7 +23,7 @@ own private key set up in gpg first.
 A simple python script is provided to search the password file, if
 the password file is configured in YAML.  The YAML format is:
 
-tag:
+> tag:
   login:password
 
 where tag could be the name of a server or any other meaningful
